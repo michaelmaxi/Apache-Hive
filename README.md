@@ -13,7 +13,10 @@ Hue on Impala for SQL query
 ReadyFlow used to import existing Apache NiFi flows or add your own from the ReadyFlow Gallery. 
 Readyflow you can add your own KPI and alerts.  
 
-Access using **HUE**
-Allowed SQL Query of Hive
-Allowed SQL Query of Trino / Presto SQL
+**HUE**
+
+Allowed SQL Query of **Hive** [Click Here](https://github.com/michaelmaxi/Apache-Hive/tree/main/HUE)
+
+Allowed SQL Query of **Trino / Presto SQL** [Click Here](https://github.com/michaelmaxi/Apache-Hive/tree/main/HUE)
+
 
