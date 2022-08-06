@@ -15,7 +15,7 @@ Readyflow you can add your own KPI and alerts.
 
 **HUE**
 
-Allowed SQL Query of **Hive** [Click Here](https://github.com/michaelmaxi/Apache-Hive/tree/main/HUE)
+SQL Example Query of **Hive** [Click Here](https://github.com/michaelmaxi/Apache-Hive/tree/main/HIVE)
 
 Allowed SQL Query of **Trino / Presto SQL** [Click Here](https://github.com/michaelmaxi/Apache-Hive/tree/main/HUE)
 
